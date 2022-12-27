@@ -3,7 +3,7 @@ import file_work as f
 import operations as do
 
 BD = {}
-API_TOKEN = '5851441322:AAHeChEXhFBW_6vhiD54HYQ9DaVoKnFE3nI'
+API_TOKEN = ''
 bot = telebot.TeleBot(API_TOKEN)
 def find_name(search, data,mes):
     temp = False
